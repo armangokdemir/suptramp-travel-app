@@ -1,0 +1,523 @@
+@import url('https://fonts.googleapis.com/css?family=Karla:400,700|Open+Sans:300|Signika:700');
+
+@font-face {
+                          font-family: "OpenSans-SemiBold";
+                          src: url('../fonts/OpenSans-SemiBold.ttf') format("truetype");
+                        }
+                        
+.page2 {
+  width               : 100%;
+  min-width           : 414px;
+  height              : 100vh;
+  min-height          : 1007px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.page2 .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 1007px;
+  width               : 414px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.page2 .bg .rectangle {
+  background-color    : rgba(252, 251, 251, 1.0);
+  top                 : 0px;
+  height              : 1007px;
+  width               : 414px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.page2 .santorinichart {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -4px;
+  height              : 986px;
+  width               : 430px;
+  position            : absolute;
+  margin              : 0;
+  left                : -8px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.page2 .santorinichart .logincopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 356px;
+  width               : 430px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.page2 .santorinichart .logincopy .santorini {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 356px;
+  width               : 430px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.page2 .santorinichart .logincopy .santorini .santorini1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 356px;
+  width               : 430px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.page2 .santorinichart .info {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 26px;
+  height              : 962px;
+  width               : 378px;
+  position            : absolute;
+  margin              : 0;
+  left                : 26px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.page2 .santorinichart .info .info1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 962px;
+  width               : 378px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.page2 .santorinichart .info .info1 .a5days {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 386px;
+  height              : auto;
+  width               : 54px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Open Sans", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 15.0px;
+  color               : rgba(180, 178, 178, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.page2 .santorinichart .info .info1 .santorinigreece {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 343px;
+  height              : auto;
+  width               : 241px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "OpenSans-SemiBold", Helvetica, Arial, serif;
+  font-size           : 25.0px;
+  color               : rgba(34, 40, 49, 1.0);
+  text-align          : left;
+  line-height         : 34.0px;
+}
+.page2 .santorinichart .info .info1 .a499 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 915px;
+  height              : auto;
+  width               : 83px;
+  position            : absolute;
+  margin              : 0;
+  left                : 148px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "OpenSans-SemiBold", Helvetica, Arial, serif;
+  font-size           : 35.0px;
+  color               : rgba(34, 40, 49, 1.0);
+  text-align          : left;
+  line-height         : 47.0px;
+}
+.page2 .santorinichart .info .info1 .loremipsumdolorsi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 422px;
+  height              : auto;
+  width               : 380px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Karla", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(57, 62, 70, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.page2 .santorinichart .info .info1 .like {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 342px;
+  height              : 40px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 334px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.page2 .santorinichart .info .info1 .right {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 40px;
+  width               : 22px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.page2 .features {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 629px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 18px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Karla", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 22.0px;
+  color               : rgba(77, 213, 153, 1.0);
+  text-align          : left;
+  line-height         : 26.0px;
+}
+.page2 .friends {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 779px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 17px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Karla", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 22.0px;
+  color               : rgba(77, 213, 153, 1.0);
+  text-align          : left;
+  line-height         : 26.0px;
+}
+.page2 .u25cfcheapthenothers {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 663px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 18px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "LucidaGrande", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(57, 62, 70, 1.0);
+  text-align          : left;
+  line-height         : 13.0px;
+}
+.page2 .u25cfcheapthenothers .span1 {
+  color               : rgba(238, 238, 238, 1.0);
+  line-height         : 16.0px;
+}
+.page2 .u25cfcheapthenothers .span2 {
+  font-family         : "Open Sans", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  color               : rgba(238, 238, 238, 1.0);
+  line-height         : 18.0px;
+}
+.page2 .u25cfnullamdapibusnu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 689px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 18px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "LucidaGrande", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(57, 62, 70, 1.0);
+  text-align          : left;
+  line-height         : 13.0px;
+}
+.page2 .u25cfnullamdapibusnu .span1 {
+  color               : rgba(238, 238, 238, 1.0);
+  line-height         : 16.0px;
+}
+.page2 .u25cfnullamdapibusnu .span2 {
+  font-family         : "Open Sans", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  color               : rgba(238, 238, 238, 1.0);
+  line-height         : 18.0px;
+}
+.page2 .u25cfcurabiturmagnate {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 715px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 18px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "LucidaGrande", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(57, 62, 70, 1.0);
+  text-align          : left;
+  line-height         : 13.0px;
+}
+.page2 .u25cfcurabiturmagnate .span1 {
+  color               : rgba(238, 238, 238, 1.0);
+  line-height         : 16.0px;
+}
+.page2 .u25cfcurabiturmagnate .span2 {
+  font-family         : "Open Sans", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  color               : rgba(238, 238, 238, 1.0);
+  line-height         : 18.0px;
+}
+.page2 .u25cfaeneantincidunt {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 741px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 18px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "LucidaGrande", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(57, 62, 70, 1.0);
+  text-align          : left;
+  line-height         : 13.0px;
+}
+.page2 .u25cfaeneantincidunt .span1 {
+  color               : rgba(238, 238, 238, 1.0);
+  line-height         : 16.0px;
+}
+.page2 .u25cfaeneantincidunt .span2 {
+  font-family         : "Open Sans", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  color               : rgba(238, 238, 238, 1.0);
+  line-height         : 18.0px;
+}
+.page2 .oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 813px;
+  height              : 36px;
+  width               : 36px;
+  position            : absolute;
+  margin              : 0;
+  left                : 18px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.page2 .ovalcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 813px;
+  height              : 36px;
+  width               : 36px;
+  position            : absolute;
+  margin              : 0;
+  left                : 38px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.page2 .ovalcopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 813px;
+  height              : 36px;
+  width               : 36px;
+  position            : absolute;
+  margin              : 0;
+  left                : 60px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.page2 .rectanglecopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 864px;
+  height              : 64px;
+  width               : 292px;
+  position            : absolute;
+  margin              : 0;
+  left                : 61px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.page2 .booknow {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 875px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 126px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Karla", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 32.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 37.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}

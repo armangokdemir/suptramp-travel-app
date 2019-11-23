@@ -1,0 +1,605 @@
+@import url('https://fonts.googleapis.com/css?family=Karla:400,700|Open+Sans:300|Signika:700');
+
+@font-face {
+                          font-family: "OpenSans-SemiBold";
+                          src: url('../fonts/OpenSans-SemiBold.ttf') format("truetype");
+                        }
+                        
+.page1 {
+  width               : 100%;
+  min-width           : 414px;
+  height              : 100vh;
+  min-height          : 896px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.page1 .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 896px;
+  width               : 414px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.page1 .bg .rectangle {
+  background-color    : rgba(252, 251, 251, 1.0);
+  top                 : 0px;
+  height              : 896px;
+  width               : 414px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.page1 .parischart {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -90px;
+  height              : 363px;
+  width               : 361px;
+  position            : absolute;
+  margin              : 0;
+  left                : 27px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.page1 .parischart .paris {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 331px;
+  width               : 345px;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.page1 .parischart .paris .paris1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 119px;
+  width               : 345px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.page1 .parischart .paris .paris1 .mask {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 119px;
+  width               : 345px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.page1 .parischart .paris .paris1 .paris2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -53px;
+  height              : 441px;
+  width               : 662px;
+  position            : absolute;
+  margin              : 0;
+  left                : -250px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.page1 .parischart .paris .a7days {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 162px;
+  height              : auto;
+  width               : 45px;
+  position            : absolute;
+  margin              : 0;
+  left                : 15px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Open Sans", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 15.0px;
+  color               : rgba(180, 178, 178, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.page1 .parischart .paris .exploreparis {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 125px;
+  height              : auto;
+  width               : 201px;
+  position            : absolute;
+  margin              : 0;
+  left                : 15px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "OpenSans-SemiBold", Helvetica, Arial, serif;
+  font-size           : 25.0px;
+  color               : rgba(34, 40, 49, 1.0);
+  text-align          : left;
+  line-height         : 34.0px;
+}
+.page1 .parischart .paris .loremipsumdolorsi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 186px;
+  height              : auto;
+  width               : 317px;
+  position            : absolute;
+  margin              : 0;
+  left                : 15px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Karla", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(57, 62, 70, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.page1 .parischart .paris .like {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 298px;
+  height              : 33px;
+  width               : 33px;
+  position            : absolute;
+  margin              : 0;
+  left                : 18px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.page1 .parischart .paris .right {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 298px;
+  height              : 33px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 308px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.page1 .parischart .rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 85px;
+  height              : 278px;
+  width               : 361px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.page1 .riochart {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 645px;
+  height              : 331px;
+  width               : 361px;
+  position            : absolute;
+  margin              : 0;
+  left                : 27px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.page1 .riochart .rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 295px;
+  width               : 361px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.page1 .riochart .infocopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 5px;
+  height              : 331px;
+  width               : 345px;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.page1 .riochart .infocopy .rio {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 119px;
+  width               : 345px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.page1 .riochart .infocopy .rio .mask {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 119px;
+  width               : 345px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.page1 .riochart .infocopy .rio .raphaelnogueiraokidila7k8qunsplash {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -112px;
+  height              : 337px;
+  width               : 538px;
+  position            : absolute;
+  margin              : 0;
+  left                : -4px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.page1 .riochart .infocopy .a5days {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 162px;
+  height              : auto;
+  width               : 45px;
+  position            : absolute;
+  margin              : 0;
+  left                : 15px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Open Sans", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 15.0px;
+  color               : rgba(180, 178, 178, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.page1 .riochart .infocopy .riodejaneiro {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 125px;
+  height              : auto;
+  width               : 201px;
+  position            : absolute;
+  margin              : 0;
+  left                : 15px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "OpenSans-SemiBold", Helvetica, Arial, serif;
+  font-size           : 25.0px;
+  color               : rgba(34, 40, 49, 1.0);
+  text-align          : left;
+  line-height         : 34.0px;
+}
+.page1 .riochart .infocopy .loremipsumdolorsi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 186px;
+  height              : auto;
+  width               : 317px;
+  position            : absolute;
+  margin              : 0;
+  left                : 15px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Karla", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(57, 62, 70, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.page1 .riochart .infocopy .like {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 298px;
+  height              : 33px;
+  width               : 33px;
+  position            : absolute;
+  margin              : 0;
+  left                : 18px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.page1 .riochart .infocopy .right {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 298px;
+  height              : 33px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 308px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.page1 .santorinichart {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 275px;
+  height              : 368px;
+  width               : 361px;
+  position            : absolute;
+  margin              : 0;
+  left                : 27px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.page1 .santorinichart .logincopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 368px;
+  width               : 361px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.page1 .santorinichart .logincopy .rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 368px;
+  width               : 361px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.page1 .santorinichart .info {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 5px;
+  height              : 331px;
+  width               : 345px;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.page1 .santorinichart .info .santorini {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 119px;
+  width               : 345px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.page1 .santorinichart .info .santorini .mask {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 119px;
+  width               : 345px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.page1 .santorinichart .info .santorini .santorini1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -79px;
+  height              : 277px;
+  width               : 363px;
+  position            : absolute;
+  margin              : 0;
+  left                : -18px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.page1 .santorinichart .info .a5days {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 162px;
+  height              : auto;
+  width               : 45px;
+  position            : absolute;
+  margin              : 0;
+  left                : 15px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Open Sans", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 15.0px;
+  color               : rgba(180, 178, 178, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.page1 .santorinichart .info .santorinigreece {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 125px;
+  height              : auto;
+  width               : 201px;
+  position            : absolute;
+  margin              : 0;
+  left                : 15px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "OpenSans-SemiBold", Helvetica, Arial, serif;
+  font-size           : 25.0px;
+  color               : rgba(34, 40, 49, 1.0);
+  text-align          : left;
+  line-height         : 34.0px;
+}
+.page1 .santorinichart .info .loremipsumdolorsi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 186px;
+  height              : auto;
+  width               : 317px;
+  position            : absolute;
+  margin              : 0;
+  left                : 15px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Karla", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(57, 62, 70, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.page1 .santorinichart .info .like {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 298px;
+  height              : 33px;
+  width               : 33px;
+  position            : absolute;
+  margin              : 0;
+  left                : 18px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.page1 .santorinichart .info .right {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 298px;
+  height              : 33px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 308px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
